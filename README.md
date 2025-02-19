@@ -49,12 +49,6 @@ export default {
 };
 ```
 
-### Explanation:
-
-- ``: Defines available languages (e.g., `'ru'` for Russian).
-- ``: Imports the JSON file containing translations.
-- ``: Specifies how the language name appears in the UI.
-
 ## 🗂️ Translation File Format
 
 Each language file (e.g., `ru.json`) should follow the JSON format:
